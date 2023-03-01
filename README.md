@@ -19,7 +19,8 @@
     - EDA.ipynb
 
 - ## **Visualization of the 3 KPI'S**
-    - PI02_BI.ipbx
+    - PI02_BI.pibx
+
 
 - ## **Initial Databases :** 
     - Databases
@@ -64,14 +65,16 @@
 
  ## **Request 4**: _prices increased over time, with a small drop since 2022. In general, the main stock markets in the world have experienced this drop._
 
-# <p align=center>KPIS CREATION<p><p align=center><img src=Images_src\KPI.png><p>
+# <p align=center>KPIS CREATION - POWERBI<p><p align=center><img src=Images_src\KPI.png><p>
 
-## **KPI 1**: _**Annual gross growth**_
+## **Note**: _Theres in the PI02_KPIS.pibx a csv called sp500_PowerBI and it was created inside PowerBI merging and transforming data_ :
 
- ## **KPI 2**: _**Gross growth per month**_
+## **KPI 1**: _**Average annual return**_
+
+ ## **KPI 2**: _**Volume sum per quarter**_
 
 
- ## **KPI 3**: _**RSI per year, quarter and month**_
+ ## **KPI 3**: _**Annual volatility**_
 
 
 #
